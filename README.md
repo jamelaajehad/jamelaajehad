@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hi, I'm Jamela 👋<br>I'm a passionate Front-End Developer skilled in building responsive, user-friendly web applications.</p>
+<h2 align="center">Hi, I'm Jamela 👋<br>I'm a passionate Front-End Developer skilled in building responsive, user-friendly web applications.</h2>
 
 
 <h1 align="left">

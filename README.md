@@ -4,7 +4,8 @@
 
 ###
 
-<h2 align="center">Hi, I'm Jamela 👋<br>I'm a passionate Front-End Developer skilled in building responsive, user-friendly web applications.</h2>
+<h4 align="left">Hi, I'm Jamela 👩‍💻 </h4>
+<p>  I'm a passionate Front-End Developer skilled in building responsive, user-friendly web applications. </p>
 
 
 <h1 align="left">
@@ -13,13 +14,14 @@
 
 
 
-<h3 align="left">👩‍💻About me</h3>
+<h3 align="left">About me</h3>
 
 
 <p align="left">✨ Passionate about: Innovating web experiences and enhancing accessibility.<br>💡 Currently exploring: Advanced React, TypeScript, and new front-end tools.<br>🎯 Goals: Master full-stack development, contribute to open source, and build innovative apps.</p>
 
 ###
-
+<h3>  Language and tools </h3>
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
   <img width="12" />

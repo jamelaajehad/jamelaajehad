@@ -11,7 +11,7 @@
 
 <h2 align="left"></h2>
 <div align="left">
-  <a href="mailto:jehadjamela28@gmail.com" target="_blank">
+  <a href="mailto:jamelanawahda5@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
    <a href="https://www.linkedin.com/in/jamela-jehad-38304a324" target="_blank">

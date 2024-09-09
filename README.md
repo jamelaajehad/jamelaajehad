@@ -11,13 +11,13 @@
 
 <h2 align="left"></h2>
 <div align="left">
-  <a href="jehadjamela28@gmail.com" target="_blank">
+  <a href="mailto:jehadjamela28@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/jamela-jehad-38304a324" target="_blank">
+   <a href="https://www.linkedin.com/in/jamela-jehad-38304a324" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/jamelajehadd" target="_blank">
+   <a href="https://instagram.com/jamelajehadd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
